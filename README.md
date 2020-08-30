@@ -1,5 +1,5 @@
 # asus_v5000j_clover_efi
-华硕VivoBook 15s 笔记本黑苹果引导文件，CPU：1035g1
+华硕VivoBook S15 笔记本黑苹果引导文件，版本 V5000J，CPU：1035g1 I5
 
 # 目前已驱动了项目：
 显卡 ☑️
